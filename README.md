@@ -13,3 +13,5 @@ git clone https://github.com/A1Gard/semantic-ui-rtl.git
 semantic-ui-rtl
 cp * /path_of_you project
 ```
+
+http://4xmen.ir
